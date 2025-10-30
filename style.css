@@ -1,0 +1,4 @@
+:root { font-family: system-ui, sans-serif; }
+body { margin: 0; display: grid; place-items: center; min-height: 100dvh; }
+main { padding: 2rem; border-radius: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.1); }
+button { padding: .6rem 1rem; border: 1px solid #ccc; border-radius: .8rem; cursor: pointer; }
